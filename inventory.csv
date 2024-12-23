@@ -1,0 +1,4 @@
+hostname,ip,username,password,protocol,os,enable_password,platform
+C9300B6,10.91.1.132,admin,Orange123!,,,Orange123!,
+WLC,10.91.1.130,admin,Orange123!,,,Orange123!,
+no,10.91.1.131,admin,Orange123!,,,Orange123!,
